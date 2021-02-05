@@ -1,0 +1,8 @@
+name=input("what is your name\n")
+surname=input("what is youe surname\n")
+grade=input("what grade\n")
+ID=input("what ID\n")
+print("name:, %s" % name)
+print("surname:, %s" % surname)
+print("grade:, %s" % grade)
+print("ID:, %s" % ID)
